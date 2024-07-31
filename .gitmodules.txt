@@ -1,0 +1,3 @@
+[submodule "frontendmail"]
+    path = frontendmail
+    url = https://github.com/C:/Users/sahana/OneDrive/Desktop/fswd/bulkmail/frontendmail.git
